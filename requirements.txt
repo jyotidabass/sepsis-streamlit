@@ -1,0 +1,8 @@
+streamlit==1.36.0
+extra-streamlit-components==0.1.71
+streamlit-extras==0.4.3
+
+httpx==0.27.0
+aiocache==0.12.2
+
+python-dotenv==1.0.1
